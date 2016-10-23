@@ -5,4 +5,5 @@ package bawei.com.myhuanxin;
  */
 
 public class Bean2 {
+    //这是个分支2
 }
