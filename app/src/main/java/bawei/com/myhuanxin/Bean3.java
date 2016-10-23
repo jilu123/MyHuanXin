@@ -6,5 +6,5 @@ package bawei.com.myhuanxin;
 
 public class Bean3 {
 
-    //这是第二个分支
+    //这是第二个分支2
 }
